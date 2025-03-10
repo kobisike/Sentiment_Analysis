@@ -60,6 +60,6 @@ The project is organized as follows:
 
 This project uses CMake as the build system. 
 
-**References:**
+## References:
 
 ChatGPT
