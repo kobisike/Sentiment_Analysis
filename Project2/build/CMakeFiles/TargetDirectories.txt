@@ -1,0 +1,3 @@
+/workspaces/codespaces-blank/Project2/build/CMakeFiles/rebuild_cache.dir
+/workspaces/codespaces-blank/Project2/build/CMakeFiles/edit_cache.dir
+/workspaces/codespaces-blank/Project2/build/CMakeFiles/sentiment.dir

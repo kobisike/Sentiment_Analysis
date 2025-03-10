@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sentiment.dir/src/DSString.cpp.o CMakeFiles/sentiment.dir/src/FileIO.cpp.o CMakeFiles/sentiment.dir/src/SentimentClassifier.cpp.o CMakeFiles/sentiment.dir/src/TextProcessor.cpp.o CMakeFiles/sentiment.dir/src/Tokenizer.cpp.o CMakeFiles/sentiment.dir/src/main.cpp.o  -o sentiment 
