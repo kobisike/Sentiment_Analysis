@@ -1,3 +1,7 @@
+# UML Diagram:
+
+![Alt text](images/UMLDiagram.png)
+
 # Sentiment Analysis Project: Q&A
 
 Below are the answers to the questions regarding the sentiment analysis project.
