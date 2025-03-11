@@ -6,22 +6,8 @@
 
 #IncludeRegexTransform: 
 
-/workspaces/codespaces-blank/Project2/src/DSString.cpp
-DSString.h
-/workspaces/codespaces-blank/Project2/src/DSString.h
-
 /workspaces/codespaces-blank/Project2/src/DSString.h
 iostream
--
-
-/workspaces/codespaces-blank/Project2/src/FileIO.cpp
-FileIO.h
-/workspaces/codespaces-blank/Project2/src/FileIO.h
-fstream
--
-iostream
--
-string
 -
 
 /workspaces/codespaces-blank/Project2/src/FileIO.h
@@ -60,39 +46,15 @@ map
 DSString.h
 /workspaces/codespaces-blank/Project2/src/DSString.h
 
-/workspaces/codespaces-blank/Project2/src/TextProcessor.cpp
-TextProcessor.h
-/workspaces/codespaces-blank/Project2/src/TextProcessor.h
-cctype
--
-
 /workspaces/codespaces-blank/Project2/src/TextProcessor.h
 vector
 -
 DSString.h
 /workspaces/codespaces-blank/Project2/src/DSString.h
 
-/workspaces/codespaces-blank/Project2/src/Tokenizer.cpp
-Tokenizer.h
-/workspaces/codespaces-blank/Project2/src/Tokenizer.h
-
 /workspaces/codespaces-blank/Project2/src/Tokenizer.h
 vector
 -
 DSString.h
 /workspaces/codespaces-blank/Project2/src/DSString.h
-
-/workspaces/codespaces-blank/Project2/src/main.cpp
-iostream
--
-vector
--
-DSString.h
-/workspaces/codespaces-blank/Project2/src/DSString.h
-FileIO.h
-/workspaces/codespaces-blank/Project2/src/FileIO.h
-Tokenizer.h
-/workspaces/codespaces-blank/Project2/src/Tokenizer.h
-SentimentClassifier.h
-/workspaces/codespaces-blank/Project2/src/SentimentClassifier.h
 

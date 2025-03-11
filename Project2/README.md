@@ -59,3 +59,7 @@ The project is organized as follows:
 ## Building and Running the Project
 
 This project uses CMake as the build system. 
+
+## References:
+
+ChatGPT
